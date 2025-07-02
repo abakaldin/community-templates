@@ -17,14 +17,11 @@ zabbix_export:
         ## Overview
         
         This is a template to monitor OCI Dbaas with Zabbix.
-        
-        
+                
         If you want to monitor Dbaas, OCI Monitoring function is not enough (or there is not Dbaas metrics?)
-        
-        
+                
         So, It is Necessary to use other monitoring tools.
-        
-        
+                
         This Zabbix template has been verified to run on zabbix3 or 4series.
         
         
